@@ -3,7 +3,7 @@ def call() {
         steps {
             script {
                 sh """
-                    echo "clone repo"
+                    echo "clone repo."
                 """
             }
         }
